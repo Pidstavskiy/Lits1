@@ -18,9 +18,9 @@ public class Task1 {
         System.out.println("z + x - e + p / a = " + result2);
         System.out.println("o + i + l * (a + b) = " + result3);
 
-        System.out.println((char) 14);
-        System.out.println((char) 77);
-        System.out.println((char) 105);
+        System.out.println("14 символ Unicode - " + (char) 14);
+        System.out.println("77 символ Unicode - " + (char) 77);
+        System.out.println("105 символ Unicode - " + (char) 105);
 
         System.out.println("Number 10 is even " + (10 % 2 == 0));
         System.out.println("Number 13 is even " + (13 % 2 == 0));
