@@ -15,7 +15,7 @@ public class Task1 {
         int result2 = z + x - e + p / a;
         int result3 = o + i + l * (a + b);
         System.out.println("a + b / e + c * (i + a) = " + result1);
-        System.out.println("z + x - e + p / a " + result2);
+        System.out.println("z + x - e + p / a = " + result2);
         System.out.println("o + i + l * (a + b) = " + result3);
 
         System.out.println((char) 14);
